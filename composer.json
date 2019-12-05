@@ -1,0 +1,17 @@
+{
+    "name": "masahiroiuchi/behat",
+    "authors": [
+        {
+            "name": "Masahiro IUCHI",
+            "email": "masahiro.iuchi@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "behat/behat": "^3.5",
+        "phpunit/phpunit": "^8.4"
+    },
+    "scripts": {
+        "behat": "behat"
+    }
+}
